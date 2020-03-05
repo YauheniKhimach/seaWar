@@ -48,4 +48,5 @@ const fire = (event) => {
 const init = () => {
     enemy.addEventListener('click', fire);
 };
+
 init ();
